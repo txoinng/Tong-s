@@ -1,0 +1,12 @@
+通讯作者：在title page列出，同时在提交系统中的个人档案中输入ORCID id
+
+作者贡献：如果被选中送审，在提交系统中输入，采用CRediT
+
+cover letter: 
+
+600字以内
+还需回答：What are the three most recently published articles that are relevant to this question?
+
+
+Funding Disclosure：不要列在致谢中，提交系统中完成
+Competing Interests: 在提交系统中完成
